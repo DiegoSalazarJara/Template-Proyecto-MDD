@@ -13,7 +13,7 @@ Este proyecto consta de dos componentes principales:
 
 El backend del proyecto proporciona la lógica y la funcionalidad del lado del servidor. Incluye una implementación básica de inicio de sesión. Este inicio de sesión no utiliza tokens ni cookies para la autenticación. Los estudiantes pueden encontrar más información y acceder al código del backend en el siguiente enlace:
 
-- [Backend](./backend)
+- [Backend](./backend/)
 
 #### Frontend 🚀
 

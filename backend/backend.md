@@ -3,18 +3,17 @@
 
 # Backend Template Metodología de Desarrollo 🧑‍🚀
 
-### Instrucciones 📝
+### Instrucciones para crear el repositorio 📝
 
 - Cuando creen un nuevo repositorio, les recomiendo utilizar la opción de **Repository template** y seleccionar el repositorio **DiegoSalazarJara/Template-Proyecto-MDD**.
 - Le asignan el nombre que desean al repositorio, por ejemplo: Proyecto-MDD.
 - Le añaden una descripción del proyecto.
 - Mantengan el repositorio público y le dan a **Create repository**.
-- Una vez creado el repositorio, deben clonarlo.
 
 ### Pasos a seguir 📝
 
-1. Una vez en el repositorio, ir al boton verde **<> Code** y copien la URL proporcionada.
-2. Vayan al escritorio y crear una carpeta.
+1. Una vez creado el repositorio, ir al boton verde **<> Code** y copien la URL proporcionada.
+2. Vayan al escritorio y crean una carpeta.
 3. Hagan click derecho sobre la carpeta y abran Git Bash.
 4. En la Git Bash, escriban: `git clone <URL> .`
 5. Después de escribir el comando para clonarlo, escribir en la Git Bash: `code .`
